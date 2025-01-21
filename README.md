@@ -1,4 +1,6 @@
 # DSA-Lab
 
-EL component:
-https://github.com/deadshot-21/IP-Address-Finder
+Lab Programs
+Lab EL
+Windows
+Ubuntu
